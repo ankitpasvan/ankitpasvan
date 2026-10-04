@@ -1,132 +1,32 @@
-<h1 align="center">Hi 👋, I'm Ankit Pasvan</h1>
-
-<h3 align="center">Full Stack MERN Developer | Cloud & DevOps Enthusiast | Problem Solver</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;C%2B%2B+%7C+Java+%7C+SQL+%7C+PostgreSQL;Docker+%7C+AWS+Learner;SDE+Preparation;Building+Real+World+Projects" />
-</p>
-
----
-
-<p align="center">
-
-<a href="https://github.com/ankitpasvan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ankit-pasvan-350ba42a2/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:ankitpasvan208@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://leetcode.com/u/ankitpasvan/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ankitpasvan&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
-# 💫 About Me
-
-🎓 B.Tech Student at AKGEC, Ghaziabad  
-💻 Full Stack MERN Developer  
-⚛️ React.js Developer  
-☁️ Cloud & DevOps Enthusiast (Docker, AWS)  
-🤖 AI & Machine Learning Enthusiast  
-📚 Solving DSA Problems Daily  
-🚀 Preparing for SDE Roles  
-
----
-
-<!-- Animated Developer Illustration -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphinx/ABSphinx/main/gifs/Desk.gif" width="500px" alt="Coding Desk"/>
-</p>
-
----
-
-# 🚀 Tech Stack & Skills
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,react,nodejs,express,mongodb,postgres,mysql,docker,aws,tailwind,git,github,postman,vscode"/>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ankitpasvan&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitpasvan&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpasvan&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitpasvan&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🏆 Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ankitpasvan&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-# 🎯 Goals 2026
-
-- SDE Internship & Full-Time Role
-- 500+ DSA Problems Solved
-- Master Full Stack & System Design
-- Hands-on Microservices with Docker & AWS
-- Open Source Contribution
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:ankitpasvan208@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ankit-pasvan-350ba42a2/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/u/ankitpasvan/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://github.com/ankitpasvan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-⭐ If you like my work, consider giving a star!
-</p>
+markdown<!-- ═══════════════════════════════════════════════════════════════════     ANKIT PASVAN · GitHub Profile README     Holographic Developer Console · cyan #00F7FF on deep dark #0B0F14     ═══════════════════════════════════════════════════════════════════ -->
+<!-- ── HERO · animated wave banner ─────────────────────────────────── --><p align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,55:0A2530,100:00F7FF&height=230&section=header&text=ANKIT%20PASVAN&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20MERN%20DEVELOPER%20%E2%80%A2%20CLOUD%20%26%20DEVOPS%20EXPLORER%20%E2%80%A2%20PROBLEM%20SOLVER&descSize=14&descAlignY=58&animation=fadeIn" alt="Animated banner — Ankit Pasvan, Full-Stack MERN Developer"/></p>
+<!-- ── HERO · holographic terminal boot sequence ───────────────────── --><p align="center">  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1100&color=00F7FF&center=true&vCenter=true&width=660&height=170&lines=%5B+BOOTING+%2F%2F+ankit.pasvan+%5D;%3E+role+.............+full_stack.mern_developer;%3E+stack+............+react+%C2%B7+node+%C2%B7+express+%C2%B7+mongo;%3E+cloud+............+docker+%C2%B7+aws+%5Blearning%5D;%3E+mode+.............+build+%3E+learn+%3E+solve+%3E+repeat;%3E+status+...........+open_to_opportunities" alt="Animated terminal showing Ankit Pasvan's developer profile boot sequence"/></p>
+<!-- ── quick-access badges ─────────────────────────────────────────── --><p align="center">  <a href="https://github.com/ankitpasvan"><img src="https://img.shields.io/badge/GitHub-0B0F14?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub profile"/></a>  <a href="https://www.linkedin.com/in/ankit-pasvan-350ba42a2/"><img src="https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=00F7FF" alt="LinkedIn profile"/></a>  <a href="mailto:ankitpasvan208@gmail.com"><img src="https://img.shields.io/badge/Email-0B0F14?style=for-the-badge&logo=gmail&logoColor=00F7FF" alt="Email Ankit"/></a>  <a href="https://leetcode.com/u/ankitpasvan/"><img src="https://img.shields.io/badge/LeetCode-0B0F14?style=for-the-badge&logo=leetcode&logoColor=00F7FF" alt="LeetCode profile"/></a></p>
+<p align="center">  <img src="https://komarev.com/ghpvc/?username=ankitpasvan&label=PROFILE+VIEWS&color=00F7FF&style=flat-square" alt="Profile views counter"/></p>
+<br/>
+<!-- ══════════ 01 · DEVELOPER IDENTITY ══════════ --><h2 align="center">◈&nbsp;&nbsp;01 · DEVELOPER IDENTITY</h2><p align="center"><sub>WHO I AM AND WHAT I BUILD</sub></p>
+```text$ whoami> Ankit Pasvan — Full Stack MERN Developer
+$ cat education.txt> B.Tech, CSE (Data Science) · AKGEC, Ghaziabad (2023 – 2027)
+$ cat experience.txt> Full Stack Developer Intern · Omega Solution (Jun – Aug 2026)
+$ cat focus.txt> MERN stack · Cloud & DevOps · AI/ML · DSA daily · SDE prep
+$ ./status --now> building real-world projects · open to opportunities```
+<br/>
+<!-- ══════════ 02 · ENGINEERING STACK ══════════ --><h2 align="center">◈&nbsp;&nbsp;02 · ENGINEERING STACK</h2><p align="center"><sub>THE TOOLKIT I USE TO TURN IDEAS INTO WORKING SOFTWARE</sub></p>
+<table align="center">  <tr>    <td align="center" width="320">      <sub><b>LANGUAGES</b></sub><br/><br/>      <img src="https://skillicons.dev/icons?i=c,cpp,java,js" alt="C, C++, Java, JavaScript"/>    </td>    <td align="center" width="320">      <sub><b>FRONTEND</b></sub><br/><br/>      <img src="https://skillicons.dev/icons?i=react,tailwind" alt="React, Tailwind CSS"/>    </td>  </tr>  <tr>    <td align="center">      <sub><b>BACKEND</b></sub><br/><br/>      <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express.js"/>    </td>    <td align="center">      <sub><b>DATABASES</b></sub><br/><br/>      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="MongoDB, PostgreSQL, MySQL"/>    </td>  </tr>  <tr>    <td align="center">      <sub><b>CLOUD &amp; DEVOPS</b></sub><br/><br/>      <img src="https://skillicons.dev/icons?i=docker,aws" alt="Docker, AWS"/>    </td>    <td align="center">      <sub><b>TOOLS</b></sub><br/><br/>      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Git, GitHub, Postman, VS Code"/>    </td>  </tr></table>
+<br/>
+<!-- ══════════ 03 · FEATURED BUILDS ══════════ --><h2 align="center">◈&nbsp;&nbsp;03 · FEATURED BUILDS</h2><p align="center"><sub>SELECTED WORK · CLICK ANY CARD TO EXPLORE THE REPOSITORY</sub></p>
+<p align="center">  <a href="https://github.com/ankitpasvan/ResumeLens"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ankitpasvan&repo=ResumeLens&bg_color=0B0F14&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF&hide_border=false&border_color=1F2A33" alt="ResumeLens repository card"/></a>  <a href="https://github.com/ankitpasvan/JobSphere"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ankitpasvan&repo=JobSphere&bg_color=0B0F14&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF&hide_border=false&border_color=1F2A33" alt="JobSphere repository card"/></a></p><p align="center">  <sub><b>ResumeLens</b> — AI interview-prep &amp; career platform · Express 5, React 19, Gemini AI, explainable ATS scoring &amp; resume–job matching</sub><br/>  <sub><b>JobSphere</b> — full-stack MERN job portal · real-time Socket.IO + WebRTC interview rooms, Groq &amp; Gemini AI assistance</sub></p><p align="center">  <a href="https://github.com/ankitpasvan/TalentIQ"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ankitpasvan&repo=TalentIQ&bg_color=0B0F14&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF&hide_border=false&border_color=1F2A33" alt="TalentIQ repository card"/></a></p><p align="center">  <sub><b>TalentIQ</b> — real-time technical interview &amp; pair-programming platform · React 19, Clerk auth, Stream video/chat, Piston code execution</sub></p>
+<br/>
+<!-- ══════════ 04 · TELEMETRY ══════════ --><h2 align="center">◈&nbsp;&nbsp;04 · TELEMETRY</h2><p align="center"><sub>THE CODE BEHIND THE PROFILE</sub></p>
+<p align="center">  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ankitpasvan&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF&rank_icon=github" alt="Ankit Pasvan's GitHub statistics"/>  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitpasvan&hide_border=true&background=0B0F14&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Ankit Pasvan's GitHub contribution streak"/></p><p align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpasvan&layout=compact&hide_border=true&bg_color=0B0F14&title_color=00F7FF&text_color=C9D1D9" alt="Ankit Pasvan's most used programming languages"/></p><p align="center">  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitpasvan&bg_color=0B0F14&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" alt="Ankit Pasvan's GitHub contribution activity graph"/></p>
+<br/>
+<!-- ══════════ 05 · CURRENT MISSION ══════════ --><h2 align="center">◈&nbsp;&nbsp;05 · CURRENT MISSION // 2026</h2><p align="center"><sub>WHAT I'M OPTIMIZING FOR RIGHT NOW</sub></p>
+```text$ cat mission_2026.md
+  [▸] SDE internship / full-time role  [▸] 500+ DSA problems solved  [▸] Master full-stack development & system design  [▸] Microservices with Docker & AWS  [▸] Open-source contributions```
+<br/>
+<!-- ══════════ 06 · BUILD PHILOSOPHY ══════════ --><h2 align="center">◈&nbsp;&nbsp;06 · BUILD PHILOSOPHY</h2>
+<p align="center"><b>LEARN → BUILD → BREAK → DEBUG → IMPROVE</b></p><p align="center"><i>"The goal isn't to know every technology.<br/>The goal is to become good at building with the ones that matter."</i></p>
+<br/>
+<!-- ══════════ 07 · ESTABLISH CONNECTION ══════════ --><h2 align="center">◈&nbsp;&nbsp;07 · ESTABLISH CONNECTION</h2><p align="center"><sub>OPEN TO LEARNING · BUILDING · COLLABORATING</sub></p>
+<p align="center">  <a href="https://www.linkedin.com/in/ankit-pasvan-350ba42a2/"><img src="https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=00F7FF" alt="LinkedIn"/></a>  <a href="mailto:ankitpasvan208@gmail.com"><img src="https://img.shields.io/badge/Email-0B0F14?style=for-the-badge&logo=gmail&logoColor=00F7FF" alt="Email"/></a>  <a href="https://leetcode.com/u/ankitpasvan/"><img src="https://img.shields.io/badge/LeetCode-0B0F14?style=for-the-badge&logo=leetcode&logoColor=00F7FF" alt="LeetCode"/></a>  <a href="https://github.com/ankitpasvan"><img src="https://img.shields.io/badge/GitHub-0B0F14?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub"/></a></p>
+<!-- ── FOOTER · animated wave ──────────────────────────────────────── --><p align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,55:0A2530,100:0B0F14&height=130&section=footer" alt="Animated wave footer"/></p><p align="center"><b>ANKIT.PASVAN</b><br/><sub>BUILD · LEARN · SOLVE · REPEAT</sub></p><p align="center"><sub>If something here helped or inspired you, a ⭐ keeps the commits coming.</sub></p>
